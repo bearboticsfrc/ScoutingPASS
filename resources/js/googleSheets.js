@@ -1,5 +1,5 @@
 function setUpGoogleSheets() {
-    const scriptURL = '<SCRIPT URL>'
+    const scriptURL = 'https://script.google.com/macros/s/AKfycbxQmfqDPJmZToydEsqwJ9zQ2tE45bqazGyRYJchwnQdB0VLupDjNHeY3UnI6iQ7BxaF/exec'
     const form = document.querySelector('#scoutingForm')
     const btn = document.querySelector('#submit')
  
