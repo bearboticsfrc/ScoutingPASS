@@ -222,7 +222,7 @@ var config_data = `
       "code": "tip",
       "type": "bool"
     },
-    { "name": "Dropped Cones (>2)",
+    { "name": "Dropped Game Pieces (>2)",
       "code": "dc",
       "type": "bool"
     },
